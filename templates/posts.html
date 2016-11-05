@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<h1>번역된 글 목록</h1>
+{% for post in this.pagination.items %}
+<div class="blog-snippet">
+    <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
+    <p class="summary">
+        {{ post.summary }}
+        <a class="more" href="{{ post|url }}">Read more …</a>
+        <p class="meta">
+            {{ post.author }}
+            {{ post.pub_date }}
+        </p>
+</div>
+{% endfor %}
+
+{% if this.pagination.pages > 1 %}
+{{ render_pagination(this.pagination) }}
+{% endif %}
+{% endblock %}

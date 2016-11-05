@@ -1,6 +1,10 @@
-_model: page
+_model: post
 ---
 title: ELEMENTARY OS LOKI 출시[놀랍고 새로운 기능들을 확인하세요]
+---
+pub_date: 2016-12-23
+---
+author: 추성준
 ---
 body:
 
