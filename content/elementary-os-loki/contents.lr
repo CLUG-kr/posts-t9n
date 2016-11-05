@@ -1,0 +1,91 @@
+_model: page
+---
+title: ELEMENTARY OS LOKI 출시[놀랍고 새로운 기능들을 확인하세요]
+---
+body:
+
+elementary OS의 4번째 major release인 Loki가 출시되어 다운로드 할 수 있다.
+
+elementary OS는 Ubuntu기반이며, Mac OS에서 영감을 얻은 모양과 느낌을 갖는 리눅스 배포판이다. 열렬한 팬들을 보유하고 있고, 종종 가장 아름다운 리눅스 배포판으로 불리기도 하지만 판단은 여러분들의 몫이다. Loki는 최신 Ubuntu 16.04 LTS를 기반으로 한다.
+
+Loki의 공개는 Jupiter Broadcasting에 발표되었고, 이는 꽤 좋은 움직임이라고 생각한다. 보통, Apple과 Google의(훨씬 더 큰 규모)발표를 보기도 하지만 인터넷 방송을 통한 출시 발표를 할 아이디어는 놀랍다.
+
+![elementary-os-loki.jpeg](elementary-os-loki.jpeg)
+
+Jupiter Broadcasting를 모른다고요? 최고의 리눅스 팟캐스트 중의 하나입니다. 아래에서 발표 영상을 볼 수 있습니다:
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/MN8dVJ6_AL8" frameborder="0" allowfullscreen></iframe><br>
+
+## elementary OS feature
+
+이쯤되면, Loki의 새로운 기능들이 궁금할 것이다. 새로운 기능들을 여러 글에 걸쳐서 자세하게 보여주는 것보다, 주된 기능들의 일부를 명확하게 소개하겠다.
+
+사실 영상으로 소개하는편이 더 쉽다. 우리들은 elementary OS 0.4 Loki의 새로운 기능들의 영상 투어를 만들었기 때문이다. 우리의 유투브 채널에 더 많은 유익한 영상이 있다. 구독해주세요!
+
+<br><iframe width="560" height="315" src="https://www.youtube.com/embed/g3KSqIZyiaI" frameborder="0" allowfullscreen></iframe><br>
+
+### New indicators
+
+첫번째로 indicators의 변화를 주목하자:
+
+![Notification control](notification-control.gif)
+
+### elementary OS Loki notification
+
+어떤 어플리케이션이 데스크톱 알림을 보일지 설정할 수 있다.
+
+![elementary-os-loki-notifications](elementary-os-loki-notifications.jpeg)
+
+### Parental control
+
+![Parental control of elementary OS Loki](parental-control-elementary-os-loki.jpeg)
+
+저번에 Linux에서 성인 컨텐츠를 막는 방법을 소개했었지만, 새로운 Parental Control 기능과 함께 Loki는 더욱 쉽게 여러분의 컴퓨터를 어린이 친화적으로 만들 수 있습니다.
+
+새로운 Parental Control으로 시간 제한, 웹사이트와 어플리케이션 차단을 할 수 있다. 매우 필요했던 기능이다.
+
+### New App Center
+
+![new app center in elementary os Loki](new-app-center-elementary-os-loki.png)
+
+elementary OS는 오래된 Ubuntu Software Center를 버리고 새로운 App Center를 소개한다. 이제 소프트웨어들이 분류되어 훨씬 찾기 쉽다.
+
+### Terminal
+
+![terminal in elementary os loki](elementary-os-terminal-loki.jpeg)
+
+나는 원래 elementary OS의 기본 터미널 앱을 좋아했다. 터미널은 새로운 색코드들의 추가로 더욱 멋져졌다.
+
+### Sharing made easier
+
+![elementary OS sharing settings](sharing-settings-elementary-os.jpeg)
+
+우분투 기반의 리눅스에서 블루투스를 사용가기는 가끔 까다롭다. Loki는 공유 설정을 한곳에 모아두었다.
+
+### Other miscellaneous changes
+
+이밖의 다른 변화들:
+
+* 마우스와 터치패드 설정의 간편화
+* 새로운 전원 설정과 향상된 외부 모니터 지원
+* 검색 가능한 시스템 설정들
+*  온라인 계정
+* option to set desktop settings back to how they were out of the box
+* 더 많은 언어와 키보드 레이아웃을 지원
+* 글자 숨기기와 같은 다양한 기능들이 추가된 새로운 스크린샷 앱
+* 기본 웹브라우저가 Midori에서 Epiphany로 변경
+* 달력에서 이벤트를 추가할 때 자연어(?) 지원
+* 기본 비디오 플레이어에서 더 높은 고해상도의 영상 지원
+* file manager에서 더 많은 키보드 단축키와 SMB share
+* 향상된 하드웨어 지원
+* 사생활 모드: 음악 플레이어는 당신이 마지막에 어떤 노래를 들었는지 추적하지 않습니다.
+
+나는 아직 Loki를 다운로드 받아 테스트 해보지 않아서 최신 배포버전에서 개인 패키지 저장소(PPA)를 허용하는지 모른다. 최신 베타 버전에서는, 계약 위반이 될 수 있는 개인 패키지 저장소 지원을 멈췄었다. 이곳의 이미지들은 elementary OS 공식 홈페이지에서 가져왔습니다.
+
+## Download elementary OS Loki
+
+elemantary OS의 공식 홈페이지에서 Loki를 다운로드 받을 수 있다.
+
+[다운로드](https://elementary.io)
+
+elemantary OS 0.4 Loki의 새로운 기능들에 대해 어떻게 생각하나요? elementary OS를 설치하기에 충분히 좋은가요? 여러분들의 생각을 남겨주세요.
